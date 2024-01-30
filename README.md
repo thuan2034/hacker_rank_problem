@@ -1,2 +1,2 @@
 # hacker_rank_problem
-My solves/attempts on hackerrank's coding problem
+My solves on hackerrank's coding problem
